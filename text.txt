@@ -1,0 +1,22 @@
+{
+   "Science":{
+      "Nuwan":75,
+      "Saman":89,
+      "Siri":55,
+      "Kusum":90,
+      "Hasthika":67
+   },
+   "Sinhala":{
+      "Nuwan":51,
+      "Saman":58,
+      "Kelum":96,
+      "kusum":87,
+      "Hasthika":78
+   },
+   "Maths":{
+      "Kusum":78,
+      "Hasthika":76,
+      "Nuwan":85,
+      "Saman":35
+   }
+}

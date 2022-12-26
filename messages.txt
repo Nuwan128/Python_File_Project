@@ -1,0 +1,4 @@
+Top Student for Science is Kusum 90 marks.
+Top Student for Sinhala is Kelum 96 marks.
+Top Student for Maths is Nuwan 85 marks.
+Top Student Is Kusum .Toatal Mark Is 255.

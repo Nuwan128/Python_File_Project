@@ -1,0 +1,15 @@
+Name, Subject, Marks
+Nuwan, Science, 75
+Saman, Science, 89
+Siri, Science, 55
+Kusum, Science, 90
+Hasthika, Science, 67
+Nuwan, Sinhala, 51
+Saman, Sinhala, 58
+Kelum, Sinhala, 96
+Kusum, Sinhala, 87
+Hasthika, Sinhala, 78
+Kusum, Maths, 78
+Hasthika, Maths, 76
+Nuwan, Maths, 85
+Saman, Maths, 35
